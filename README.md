@@ -1,3 +1,4 @@
+
 # 🎬 Real-Time Face Segmentation for Movie Cast Identification
 
 ## 📌 Project Overview
@@ -131,4 +132,3 @@ pip install -r requirements.txt
 ## 🙌 Acknowledgements
 - Open-source community
 - TensorFlow & Streamlit contributors
-
